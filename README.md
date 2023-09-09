@@ -2,6 +2,9 @@
 
 [my page](https://jschoeberl.github.io/testjup/lab)
 
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jschoeberl.github.io/testjup/lab)
+
+
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
