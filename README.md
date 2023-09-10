@@ -1,10 +1,10 @@
 # JupyterLite Demo
 
-[my page](https://jschoeberl.github.io/testjup/index.ipynb)
+[my page](https://jschoeberl.github.io/testjup/lab#index.ipynb)
 
-[my page](https://jschoeberl.github.io/testjup/lab/index.ipynb)
-[my page](https://jschoeberl.github.io/testjup/lab/contents/index.ipynb)
-[my page](https://jschoeberl.github.io/testjup/lab/index.ipynb)
+[my page](https://jschoeberl.github.io/testjup/lab/#index.ipynb)
+[my page](https://jschoeberl.github.io/testjup/lab/#contents/index.ipynb)
+[my page](https://jschoeberl.github.io/testjup/lab/#index.ipynb)
 
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jschoeberl.github.io/testjup/lab)
