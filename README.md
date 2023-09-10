@@ -1,8 +1,8 @@
 # JupyterLite Demo
 
-[my page](https://jschoeberl.github.io/testjup/lab#index.ipynb)
+[my page](https://jschoeberl.github.io/testjup/lab?path=index.ipynb)
 
-[my page](https://jschoeberl.github.io/testjup/lab/#index.ipynb)
+[my page](https://jschoeberl.github.io/testjup/lab?path=index)
 [my page](https://jschoeberl.github.io/testjup/lab/#contents/index.ipynb)
 [my page](https://jschoeberl.github.io/testjup/lab/#index.ipynb)
 
