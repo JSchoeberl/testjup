@@ -1,6 +1,6 @@
 # JupyterLite Demo
 
-[my page](https://jschoeberl.github.io/testjup/lab/index)
+[my page](https://jschoeberl.github.io/testjup/index.ipynb)
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jschoeberl.github.io/testjup/lab/index.ipynb)
 
