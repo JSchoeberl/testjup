@@ -1,8 +1,8 @@
 # JupyterLite Demo
 
-[my page](https://jschoeberl.github.io/testjup/lab)
+[my page](https://jschoeberl.github.io/testjup/lab/index)
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jschoeberl.github.io/testjup/lab)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jschoeberl.github.io/testjup/lab/index.ipynb)
 
 
 
